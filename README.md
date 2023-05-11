@@ -32,7 +32,7 @@
 ## 기능 소개
 <br/>  
 -메인화면 : 슬라이드 시 테마별로 다른 화면이 보여진다.
-![image](https://github.com/ljh88820/TTT/assets/128678384/e52ee7d2-5709-42de-9206-dedee5f588fd)
+![wego기획안첫화면](https://github.com/uniyunnnn/project-wego-jiyun/assets/103082984/8a538c60-402e-4313-8c83-1b355dfee7eb)
 
 ----
 
